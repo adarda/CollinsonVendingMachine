@@ -1,10 +1,16 @@
 # CollinsonVendingMachine
 VendingMachine Java Test for Collinson
 
-CollinsonVendingMachineAssignment: This is a sample Java project for Collinson used for designing and functioning of a Vending machine.
+**CollinsonVendingMachineAssignment**: This is a sample Java project for Collinson used for designing and functioning of a Vending machine.
 Once the project has be downloaded we can the run the following command to kick start the application:
+
+**How to Run**
+**Command**
 mvn test –PmainClass
+
 The above command first does the mvn test but we have created a profile in pom file (mainClass) which triggers the main class of the application 
+
+**Flow of Vending Machine**
 After the application is started we get the intro message i.e.  “Welcome to Collinson Vending Machine”
 And the list of items in the vending machine are displayed alone with its price i.e. 
 1)	COKE –Price: 25 Cents
