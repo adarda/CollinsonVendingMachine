@@ -1,0 +1,10 @@
+com\vendingMachine\beans\CoinBundle.class
+com\vendingMachine\exception\InsufficentAmountException.class
+com\vendingMachine\input\InputData.class
+com\vendingMachine\VendingApplication.class
+com\vendingMachine\enums\Coin.class
+com\vendingMachine\service\impl\WorkingCalculator.class
+com\vendingMachine\service\Calculator.class
+com\vendingMachine\enums\Product.class
+com\vendingMachine\service\impl\WorkingVendingMachine.class
+com\vendingMachine\service\VendingMachine.class
